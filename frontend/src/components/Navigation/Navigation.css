@@ -1,0 +1,19 @@
+ul {
+    background-color: #1c87c9;
+    list-style-type: none;
+    margin-bottom: 10px;
+    padding: 0;
+  }
+
+  ul li {
+    display: flex;
+    font-size: large;
+    justify-content: space-evenly;
+  }
+
+  ul li a {
+    color: #FFFFFF;
+    font-weight:bold;
+    padding: 20px;
+    text-decoration: none;
+}
